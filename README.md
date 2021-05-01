@@ -1,5 +1,5 @@
 # data_structures_and_algorithms_coursera
-My solutions to some of the assignments of the "Data structures and algorithms" specialization's courses (by UCSD and HSE) on Coursera.
+My solutions to some of the assignments of the "Data structures and algorithms" specialization's courses (by UCSD and HSE) on Coursera. They are all written in Python 3.
 
 Course 1: Algorithmic Toolbox [[Certificate]](https://coursera.org/share/60dbe801d1bc01d4ffd20a352ab49fc8)
 -
